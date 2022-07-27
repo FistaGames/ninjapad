@@ -14,7 +14,7 @@ const EMULATION_DISPLAY = "emu-canvas";
 // Emulation settings
 const SYSTEM = "nes";
 const EMULATOR = "jsnes";
-const DEFAULT_ROM = "roms/logo.nes";
+const DEFAULT_ROM = "roms/CSmapper2.nes";
 
 // User experience
 const SINGLE_ROM = false;
